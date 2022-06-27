@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yclutched
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on A Minecraft Server
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to make a Minecraft Plugin
 - 📫 How to reach me outside?
 
 <!---
